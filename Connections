@@ -21,4 +21,12 @@ This document outlines the connections between the components for the Vibe Sync 
 | VCC | VCC |
 | GND | GND |
 | Output | D2 |
+
+### Vibration Motor to NodeMCU
+
+| **Vibration Motor** | **NodeMCU Pin** |
+| --- | --- |
+| Red wire | Pin-4 |
+| Blue  | GND |
+```
 ```
